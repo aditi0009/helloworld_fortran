@@ -1,4 +1,0 @@
-Program Hello
-implicit NONE
-print *, "Hello world"
-endProgram Hello
